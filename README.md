@@ -1,6 +1,9 @@
 # UserInfoDataEntryForm
 
-A local Python Tkinter application for entering user information through a graphical form. Submitted data is printed to the console and saved to a local SQLite database.
+> A local Python Tkinter application for entering user information through a graphical form. Submitted data is printed to the console and saved to a local SQLite database.
+
+[![License: Custom](https://img.shields.io/badge/License-Custom-blue.svg)](LICENSE.md)
+[![Last commit](https://img.shields.io/github/last-commit/whxami-yokeo/UserInfoDataEntryForm)](https://github.com/whxami-yokeo/UserInfoDataEntryForm/commits/main)
 
 ## Features
 
