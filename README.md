@@ -92,13 +92,13 @@ UserInfoDataEntryForm/
 
 All form data is processed locally. The application prints submitted information to the local console and stores it in the local `data.db` SQLite database.
 
-It does not intentionally transmit data to the developer, use analytics, or upload records to an external service. See [PRIVACY.md](PRIVACY.md) for full details.
+It does not intentionally transmit data to the developer, use analytics, or upload records to an external service. See [Privacy Policy](PRIVACY.md) for full details.
 
 ## Source Availability
 
 This repository is published for display and personal educational review only.
 Running, copying, modifying, redistributing, or deploying the source code is
-not permitted without prior written permission. See [LICENSE.md](LICENSE.md).
+not permitted without prior written permission. See [Display and Educational Use License](LICENSE.md).
 
 ## License
 
